@@ -5,6 +5,7 @@
 
 🌐 [linkedin.com/in/himanshudeol](https://linkedin.com/in/himanshudeol) | 💻 [github.com/himanshudeol](https://github.com/himanshudeol) | 🗃️ [himanshudeol1.odoo.com](https://himanshudeol1.odoo.com/)
 📄 [Resume](https://drive.google.com/file/d/1zCCLiM_VhAV_cOUvoCJ4OGiViESt6npl/view?usp=sharing)
+
 -----
 
 ### **Summary**
