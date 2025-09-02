@@ -3,7 +3,7 @@
 
 📧 himanshudeol57@gmail.com | 📱 +91-8433251443 | 📍 Saharanpur, Uttar Pradesh, India
 
-🔗 [linkedin.com/in/himanshudeol](https://www.google.com/search?q=https://linkedin.com/in/himanshudeol) | 💻 [github.com/himanshudeol](https://www.google.com/search?q=https://github.com/himanshudeol) | 🔗 [himanshudeol1.odoo.com](https://www.google.com/search?q=https://himanshudeol1.odoo.com/)
+🔗 [linkedin.com/in/himanshudeol](https://linkedin.com/in/himanshudeol) | 💻 [github.com/himanshudeol](https://github.com/himanshudeol) | 🔗 [himanshudeol1.odoo.com](https://himanshudeol1.odoo.com/)
 
 -----
 
