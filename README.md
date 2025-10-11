@@ -71,3 +71,9 @@ Data-driven Business Consultant and Analyst with a unique blend of technical exp
   * **HackerRank Certifications:** Proved foundational and intermediate proficiency in Python, SQL, and core programming concepts.
   * **106th Indian Science Congress - Coordinator:** Coordinated all cultural events for 30,000+ delegates, including Nobel laureates and the Prime Minister of India.
   * **National Service Scheme - B Certificate Recipient:** Awarded for exemplary community service, leadership, and civic responsibility.
+
+### **My GitHub Stats**
+
+![**Himanshu's GitHub stats**](https://github-readme-stats.vercel.app/api?username=himanshudeol&show_icons=true&theme=radical)
+
+[![**Top Language**](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudeol&layout=compact&theme=radical)](https://github.com/himanshudeol)
