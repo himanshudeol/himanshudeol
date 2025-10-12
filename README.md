@@ -17,9 +17,9 @@ Data-driven Business Consultant and Analyst with a unique blend of technical exp
 ### **Skills**
 
   * **Business & Strategy:** Business Analytics, Business Intelligence (BI), Strategic Thinking, Data-Driven Decision Making, Problem Solving, Project Management, Business Development.
-  * **Core Analytics & AI:** Predictive Modeling, Statistical Analysis, Machine Learning (ML), Generative AI, Prompt Engineering, Storytelling.
-  * **Technical Tools:** Python, SQL, Microsoft Power BI, Tableau, Microsoft Excel.
-  * **Professional Skills:** Leadership, Communication, Teamwork, Interdisciplinary Collaboration, Critical Thinking, Adaptability.
+  * **Core Analytics & AI:** Statistical Analysis, Storytelling, Generative AI, Prompt Engineering, Predictive Modeling, Machine Learning (ML).
+  * **Technical Tools:** SQL, Microsoft Excel, Microsoft Power BI, Python.
+  * **Soft Skills:** Leadership, Communication, Teamwork, Interdisciplinary Collaboration, Critical Thinking, Adaptability.
 
 -----
 
