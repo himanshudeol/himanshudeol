@@ -74,6 +74,10 @@ Data-driven Business Consultant and Analyst with a unique blend of technical exp
 
 ### **My GitHub Stats**
 
-![**Himanshu's GitHub stats**](https://github-readme-stats.vercel.app/api?username=himanshudeol&show_icons=true&theme=radical)
+![**Himanshu's GitHub stats**](https://github-readme-stats.vercel.app/api?username=himanshudeol&hide=stars,issues,contribs)
 
-[![**Top Language**](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudeol&layout=compact&theme=radical)](https://github.com/himanshudeol)
+![**Top Language**](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudeol)
+
+![**GitHub Streak**](https://github-readme-streak-stats.herokuapp.com/?user=himanshudeol&theme=light&hide_border=true)
+
+
