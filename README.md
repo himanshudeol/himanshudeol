@@ -78,5 +78,35 @@ Data-driven Business Consultant and Analyst with a unique blend of technical exp
 
 ![**Top Language**](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudeol)
 
+**Technical Tools**
+<table>
+  <tbody>
+    <tr>
+      <td><b>1</b></td>
+      <td><b>SQL</b></td>
+      <td> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/39b6cec2-655a-4bff-9989-2d62172dbb49" />
+ </td>
+    </tr>
+    <tr>
+      <td><b>2</b></td>
+      <td><b>Microsoft Excel</b></td>
+      <td> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/4ecfef17-02a5-4fb4-8c0e-1d138b239802" />
+ </td>
+    </tr>
+   <tr>
+      <td><b>3</b></td>
+      <td><b>Power BI</b></td>
+      <td> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/531f4735-8f78-433a-98d0-1c63f869a285" />
+ </td>
+    </tr>
+   <tr>
+      <td><b>3</b></td>
+      <td><b>Python</b></td>
+      <td> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/71408c75-105e-44ee-b6a9-dbf6c15e06e4" />
+ </td>
+    </tr>
+  </tbody>
+</table>
 
+![**GitHub Streak**](https://streak-stats.demolab.com?user=himanshudeol)
 
