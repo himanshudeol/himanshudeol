@@ -78,6 +78,5 @@ Data-driven Business Consultant and Analyst with a unique blend of technical exp
 
 ![**Top Language**](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudeol)
 
-![**GitHub Streak**](https://github-readme-streak-stats.herokuapp.com/?user=himanshudeol&theme=light&hide_border=true)
 
 
