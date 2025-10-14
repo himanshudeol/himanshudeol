@@ -72,13 +72,9 @@ Data-driven Business Consultant and Analyst with a unique blend of technical exp
   * **106th Indian Science Congress - Coordinator:** Coordinated all cultural events for 30,000+ delegates, including Nobel laureates and the Prime Minister of India.
   * **National Service Scheme - B Certificate Recipient:** Awarded for exemplary community service, leadership, and civic responsibility.
 
-### **My GitHub Stats**
 
-![**Himanshu's GitHub stats**](https://github-readme-stats.vercel.app/api?username=himanshudeol&hide=stars,issues,contribs)
 
-![**Top Language**](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudeol)
-
-**Technical Tools**
+### **Technical Tools**
 <table>
   <tbody>
     <tr>
@@ -108,5 +104,4 @@ Data-driven Business Consultant and Analyst with a unique blend of technical exp
   </tbody>
 </table>
 
-![**GitHub Streak**](https://streak-stats.demolab.com?user=himanshudeol)
 
