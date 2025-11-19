@@ -10,27 +10,29 @@
 
 ### **Summary**
 
-Data-driven Business Consultant and Analyst with a unique blend of technical expertise and strategic business acumen. Proven ability to translate complex data into actionable insights, driving business growth and operational efficiency. Seeking to leverage a comprehensive skill set in data analysis, predictive modeling, and project leadership to solve challenging business problems and create meaningful impact.
+Data-driven Business Analyst with a strong blend of technical and business expertise, supported by an MBA in Business Analytics and over 1000 hours of practical training. Skilled in SQL, Excel, Power BI, Python, and documentation. Experienced in requirements gathering, data analysis, dashboard development, and converting complex information into clear, actionable insights. With experience co-founding a student venture and leading multiple projects, I bring strong problem-solving, communication, and stake-holder management abilities to drive data-informed decision-making and measurable business impact.
 
 -----
 
 ### **Skills**
 
-  * **Business & Strategy:** Business Analytics, Business Intelligence (BI), Strategic Thinking, Data-Driven Decision Making, Problem Solving, Project Management, Business Development.
+  * **Business & Strategy:** Business Analysis, Requirements Gathering, Process Mapping, Data Analysis, Documentation, Business Intelligence, Stakeholder Management, Problem Solving.
   * **Core Analytics & AI:** Statistical Analysis, Storytelling, Generative AI, Prompt Engineering, Predictive Modeling, Machine Learning (ML).
-  * **Technical Tools:** SQL, Microsoft Excel, Microsoft Power BI, Python.
-  * **Soft Skills:** Leadership, Communication, Teamwork, Interdisciplinary Collaboration, Critical Thinking, Adaptability.
+  * **Technical Tools:** SQL, Microsoft Excel, Microsoft Power BI, Python, Microsoft Office Suite, Google Workspace, Jupyter Notebook, Ai Tools.
+  * **Soft Skills:** Leadership, Communication, Teamwork, Critical Thinking, Presentation Skills, Data Storytelling
 
 -----
 
 ### **Experience**
 
-**Administrative Manager - Part-Time** | S & S Consultancy | Udaipur, Rajasthan, India
-*Mar 2024 – Nov 2024*
+**Co-founder - Self-employed** | Hermes Tours & Travels | Jalandhar, Punjab, India (Hybrid)
+*Jul 2019 – Aug 2020*
 
-  * Spearheaded the streamlining of daily operations, enhancing overall office efficiency and productivity.
-  * Managed all financial transactions, budgeting, and expense tracking to optimize resource allocation and support fiscal health.
-  * Coordinated staff and leadership efforts to resolve operational challenges and implement improvements that drove business growth.
+* Co-founded and scaled a student travel and self-drive rental venture, achieving profitability within the first six months.
+* Designed the business model, streamlined operations, and led end-to-end marketing for 58+ student trips and rental services.
+* Improved annual revenue by 20% through optimized fleet management, pricing strategies, and customer experience enhancements.
+* Implemented agile operational changes during COVID-19, including strategic pivots and contingency planning to sustain the business.
+* After pandemic-driven restrictions and market contraction, responsibly closed the venture while ensuring smooth settlement of all client and vendor commitments.
 
 -----
 
@@ -58,6 +60,10 @@ Data-driven Business Consultant and Analyst with a unique blend of technical exp
 **Master of Business Administration (MBA) - Business Analytics** | GLA University, Mathura
 
 *Graduated: 2025*
+
+**[Master Business Analytics Program](https://drive.google.com/file/d/1vv4QNDAa62DO2yFhRudWUui5TJR2Rymg/view?usp=sharing)** | Masai School
+
+*Completed: 2025*
 
 **Bachelor of Technology (B.Tech) CSE Hons.** | Lovely Professional University, Phagwara
 
